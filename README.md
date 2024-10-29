@@ -1,5 +1,5 @@
 # Dara-Game
-Assignment of the course Web Technologies (3rd year, 1st semester)
+Assignment of the course Web Technologies (BSc in Artificial Intelligence and Data Science 3rd year, 1st semester)
 
 This assignment was divided in 3 parts:
 * In the first (1ª entrega) it was asked to implement the logic of the Dara game
